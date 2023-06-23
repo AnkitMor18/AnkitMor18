@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnkitMor18
+- 👀 I’m interested in Data Science and ML algorithms
+- 🌱 I’m currently learning Machine Learning concepts 
+- 📫 My Linkedin - https://www.linkedin.com/in/ankit-mor-2b6946248/
